@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class Asteroid : MonoBehaviour
 {
+// Changes Made
     Rigidbody2D rb;
     void Start()
     {
